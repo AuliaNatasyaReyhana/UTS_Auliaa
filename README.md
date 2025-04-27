@@ -1,8 +1,12 @@
+Nama: Aulia Natasya Reyhana
+
+NIM: 12350124381
+
 Nama Aplikasi: To-Do List
 
 Fungsi: Mencatat dan mengelola daftar tugas harian secara praktis dan efisien.
 
-Teknologi Digunakan:
+Teknologi yang Digunakan:
 
 •	Kotlin sebagai bahasa pemrograman utama
 
@@ -20,7 +24,7 @@ Fitur Unggulan:
 
 •	Menghapus catatan yang tidak diperlukan lagi
 
-Deskripsi:
+Deskripsi singkat:
 
 Aplikasi ini dikembangkan sebagai implementasi konsep clean code. Struktur file disusun secara rapi, sehingga memudahkan pengembangan lebih lanjut dan meningkatkan keterbacaan kode. Selain itu, aplikasi ini didesain agar tetap sederhana namun fungsional, cocok untuk pengguna yang membutuhkan pencatatan cepat dalam aktivitas sehari-hari. Aplikasi ini merupakan aplikasi catatan yang di buat dengan prinsip clean code sehingga struktur kode lebih mudah dimenegerti, kemudian digunakan bahasa tailwind.
 catatan ini berfungsi sebagai aplikasi note dengan fitur menambah judul, menambah isi catatam, menghapus, mengedit dan tentunya menyimpan
